@@ -1,0 +1,5 @@
+텔레그램봇 키저장
+Use this token to access the HTTP API:
+8659133620:AAEwe-dvhEyAFCxBoA6WaGzzYjlMBQRV3Sk
+
+Id: 8582454653
